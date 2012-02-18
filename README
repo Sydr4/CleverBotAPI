@@ -1,0 +1,13 @@
+A simple CleverBot API
+
+query - query's a string. 
+reset - resets the conversation
+
+For an example on how to use it have a look into CBShell.rb!
+CBShell.rb let's you talk to CleverBot. Just try
+
+ruby CBShell.rb
+
+and start chatting.
+
+For more info vist http://www.sydr4.com/
