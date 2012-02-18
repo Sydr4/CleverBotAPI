@@ -1,7 +1,7 @@
 require 'cleverBot'
 
 bot = CleverBot.new
-puts "CleverBot Shell v#{VERSION}"
+puts "CleverBot Shell"
 
 while true do
 	print ">"
